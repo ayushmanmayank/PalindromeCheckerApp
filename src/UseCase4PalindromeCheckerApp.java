@@ -28,7 +28,7 @@ public class UseCase4PalindromeCheckerApp {
         }
 
         if (isPalindrome) {
-            System.out.println("The given string is a Palindrome.");
+            System.out.println("The given strings is a Palindrome.");
         } else {
             System.out.println("The given string is NOT a Palindrome.");
         }

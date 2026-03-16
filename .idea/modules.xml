@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/AYUSHMAN MAYNK.iml" filepath="$PROJECT_DIR$/AYUSHMAN MAYNK.iml" />
+=======
       <module fileurl="file://$PROJECT_DIR$/B2P22_RA2411050010001.iml" filepath="$PROJECT_DIR$/B2P22_RA2411050010001.iml" />
+>>>>>>> 7ef04e17e565341a23b38396cf214fb7af734c7f
     </modules>
   </component>
 </project>
